@@ -1,0 +1,1 @@
+def process_file(filename, mode, shift):
